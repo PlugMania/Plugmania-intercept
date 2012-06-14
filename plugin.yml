@@ -1,0 +1,9 @@
+name: intercept
+main: info.plugmania.intercept.intercept
+version: 1.0.0
+description: >
+             A plugin to intercept (you see?) cross-world commands
+commands:
+    intercept:
+      description: Access intercept subcommands
+      usage: /intercept help
